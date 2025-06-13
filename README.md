@@ -2,6 +2,8 @@
 
 
 **<div align="center">A full-time full-stack and a freelance developer 👨‍💻🚀</div>**  
+ -  Tech Lover, I code more then i Sleep.lol
+ -  Atualmente trabalhando em projetos privados 
 
 
 <p align="left">
