@@ -121,7 +121,7 @@
     style="padding-right: 10px;"
     src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"
 />  
-
+<br/> 
 <br/>  
 
 ## My Github Status 
