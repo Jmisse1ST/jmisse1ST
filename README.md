@@ -127,7 +127,9 @@
 <br/>  
 
 ## My Github Status 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmisse1ST)
+
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmisse1ST&layout=compact&&langs_count=8"/>
+
   
 
 
